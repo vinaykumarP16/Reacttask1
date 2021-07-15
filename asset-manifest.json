@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f9d5579.chunk.css",
+    "main.js": "/static/js/main.20a1705f.chunk.js",
+    "main.js.map": "/static/js/main.20a1705f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.620957aa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.620957aa.js.map",
+    "static/js/2.84cbd08f.chunk.js": "/static/js/2.84cbd08f.chunk.js",
+    "static/js/2.84cbd08f.chunk.js.map": "/static/js/2.84cbd08f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4f9d5579.chunk.css.map": "/static/css/main.4f9d5579.chunk.css.map",
+    "static/js/2.84cbd08f.chunk.js.LICENSE.txt": "/static/js/2.84cbd08f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/CircularStd.3fcb6535.ttf",
+    "static/media/book.03c77df3.png": "/static/media/book.03c77df3.png",
+    "static/media/book2.2816fa82.png": "/static/media/book2.2816fa82.png",
+    "static/media/user.b19f4aec.png": "/static/media/user.b19f4aec.png",
+    "static/media/user2.c7e564cf.png": "/static/media/user2.c7e564cf.png",
+    "static/media/userone.d53d9d72.png": "/static/media/userone.d53d9d72.png",
+    "static/media/userthree.abbbfc69.png": "/static/media/userthree.abbbfc69.png",
+    "static/media/usertwo.fd11b757.png": "/static/media/usertwo.fd11b757.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.620957aa.js",
+    "static/js/2.84cbd08f.chunk.js",
+    "static/css/main.4f9d5579.chunk.css",
+    "static/js/main.20a1705f.chunk.js"
+  ]
+}
