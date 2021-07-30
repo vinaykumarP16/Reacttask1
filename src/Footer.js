@@ -9,7 +9,7 @@ export default function Footerpage() {
 					<h1>Learn problem solving</h1>
 					<p>Create custom landing pages with Omega that converts <br/>  more visitors than any website.</p>
 				</div>
-				<button className="footmybtn">Get this book</button>
+				<button className="getbook">Get this book</button>
 			</div>
 
 				<nav>	
