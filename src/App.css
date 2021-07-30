@@ -704,12 +704,14 @@ nav h1, nav li{
      .priceCards{
       display: flex;
       flex-direction: column;
+      max-width: 90%;
+      margin: auto;
      }
 
      .pricecard{
       display: flex;
       max-width: 100%;
-      margin: auto;
+      margin: 20px;
      }
 
      .pricetxt{
