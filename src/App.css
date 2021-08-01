@@ -317,7 +317,7 @@ nav h1, nav li{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  align-items: left;
+  align-items: center;
 }
 
 .rcard h4{
