@@ -615,6 +615,10 @@ nav h1, nav li{
       height: 550px;
     }
 
+    .box .one{
+      margin: 15px;
+    }
+
     .cardssecond{
       max-width: 80%;
       display: flex;
